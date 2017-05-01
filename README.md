@@ -1,4 +1,4 @@
-# CopulaGrangerCausality_Spikes
+# CopulaGrangerCausality_MixedData
 Copula GLM for the analysis of mixed data of spikes and local field potentials, as described in
 
     Meng Hu, Mingyao Li, Wu Li and Hualou Liang, Joint Analysis of Spikes and Local Field Potentials 
